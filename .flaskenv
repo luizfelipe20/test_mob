@@ -1,2 +1,2 @@
-FLASK_APP=pymongoexample
+FLASK_APP=core
 FLASK_ENV=development
